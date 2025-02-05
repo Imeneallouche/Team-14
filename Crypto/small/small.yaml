@@ -1,0 +1,14 @@
+title: Small
+author: yacine
+discord_id: ya124
+category: Cryptography
+type: RSA Attack
+difficulty: Easy
+description: |
+  You have intercepted an RSA-encrypted message and its public key.
+  Can you decrypt the message and find the flag?
+hint: Some RSA keys are weaker than others. 
+flag_format: shellmates{XXXXXXXXXXXXXXXXXXXXXXXX}
+files:
+  - outputs.txt  
+  - encoding.py
