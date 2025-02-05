@@ -1,0 +1,1 @@
+The image cant be open ? maybe there is a problem in the magic number !
