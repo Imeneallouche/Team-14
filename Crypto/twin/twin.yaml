@@ -1,0 +1,12 @@
+title: Twin !!
+author: yacine
+discord_id: ya124
+category: Cryptography
+type: Classic Cipher
+difficulty: Easy
+description: |
+  A secret message has been encrypted using an unfamiliar cipher.
+  Your task is to analyze the encoded text and uncover the hidden flag.
+hints: "Twin" might not just refer to the number of hex digits.
+flag_format: shellmates{XXXXXXXXXXXXXXXXXXXXXXXX}
+encoded_flag: 67c5645ot4vo56b6t06gh5tr5cj6kf19x4qh19164f5kj6nx
